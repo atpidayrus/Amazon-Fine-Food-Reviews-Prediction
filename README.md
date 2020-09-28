@@ -6,7 +6,6 @@ Using Different ML approaches to predict the polarity of reviews using the revie
 Data Source: https://www.kaggle.com/snap/amazon-fine-food-reviews <br><br>
 <ul>
 <li>The 1st notebook implements Data Visualization using t-SNE algorithm on the reviews.</li>
-<li>Notebook 06 Implement SGD.ipynb is a manual implementation of SGD algorithm.</li>
 <li>Notebooks 10 & 11 show various Clustering techniques and the SVD Dimensionality reduction technique on this dataset respectively.</li>
 <li>Except these notebooks, all the others employ ML techniques for Classification & use the following basic approach:
   <ol>
